@@ -1,0 +1,6 @@
+@@include('jquery.min.js')
+@@include('slick.min.js')
+@@include('main.js')
+@@include('ion.rangeSlider.min.js')
+@@include('jquery.formstyler.min.js')
+@@include('jquery.rateyo.min.js')
